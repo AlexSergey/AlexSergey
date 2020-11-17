@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Rockpack](https://github.com/AlexSergey/rockpack)
 
-- 👨‍💻 All of my projects are available at [https://gooddev.org](https://gooddev.org)
+- 👨‍💻 Some of my projects are available at [https://gooddev.org](https://gooddev.org)
 
 - 📫 How to reach me **gooddev.sergey@gmail.com**
 

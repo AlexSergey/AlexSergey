@@ -1,13 +1,13 @@
-<h1 align="center">Hi рџ‘‹, I'm Sergey</h1>
+<h1 align="center">Hi 👋, I'm Sergey</h1>
 <h3 align="center">Full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexsergey&label=Profile%20views&color=0e75b6&style=flat" alt="alexsergey" /> </p>
 
-- рџ”­ IвЂ™m currently working on [Rockpack](https://github.com/AlexSergey/rockpack)
+- 🔭 I’m currently working on [Rockpack](https://github.com/AlexSergey/rockpack)
 
-- рџ‘ЁвЂЌрџ’» All of my projects are available at [https://gooddev.org](https://gooddev.org)
+- 👨‍💻 All of my projects are available at [https://gooddev.org](https://gooddev.org)
 
-- рџ“« How to reach me **gooddev.sergey@gmail.com**
+- 📫 How to reach me **gooddev.sergey@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
